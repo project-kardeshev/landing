@@ -699,7 +699,7 @@ function App() {
                   <a href="#">Stephan</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">
-                  Mistery man
+                  Mystery man
                 </span>
                 <p className="text-gray-500 dark:text-gray-400 mb-4 mt-3 font-light">
                   Stephan is doing what cannot be revealed.
