@@ -425,8 +425,9 @@ function App() {
                 <ul className="flex space-x-4 sm:mt-0">
                   <li>
                     <a
-                      href="#"
+                      href="https://twitter.com/2n1u0"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -440,8 +441,9 @@ function App() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="https://github.com/lopezi"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -459,8 +461,9 @@ function App() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="https://lopezi.com"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -501,6 +504,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -516,6 +520,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -535,6 +540,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -577,6 +583,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -590,8 +597,9 @@ function App() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="https://github.com/atticusofsparta"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -611,6 +619,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -652,6 +661,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -667,6 +677,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
@@ -686,6 +697,7 @@ function App() {
                     <a
                       href="#"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                      target="_blank"
                     >
                       <svg
                         className="h-5 w-5"
