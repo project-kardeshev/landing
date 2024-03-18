@@ -419,7 +419,7 @@ function App() {
                   Interplanetary Product Manager
                 </span>
                 <p className="text-gray-500 dark:text-gray-400 mb-4 mt-3 font-light">
-                  Drives the product like an electric Ferrari, while brings the
+                  Drives the product like an electric Ferrari, while bringing the
                   experience of a combustion engineer.
                 </p>
                 <ul className="flex space-x-4 sm:mt-0">
