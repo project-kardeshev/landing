@@ -412,7 +412,7 @@ function App() {
                 />
               </a>
               <div className="p-5">
-                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight">
+                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight font-d-heavy">
                   <a href="#">2n1u0</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">
@@ -491,7 +491,7 @@ function App() {
                 />
               </a>
               <div className="p-5">
-                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight">
+                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight font-d-heavy ">
                   <a href="#">Louis-Philippe Bellier</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">CIX</span>
@@ -568,7 +568,7 @@ function App() {
                 />
               </a>
               <div className="p-5">
-                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight">
+                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight font-d-heavy">
                   <a href="#">Atticus</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">
@@ -647,7 +647,7 @@ function App() {
                 />
               </a>
               <div className="p-5">
-                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight">
+                <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight font-d-heavy ">
                   <a href="#">Stephan</a>
                 </h3>
                 <span className="text-gray-500 dark:text-gray-400">
