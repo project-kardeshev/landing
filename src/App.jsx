@@ -9,14 +9,14 @@ function App() {
         <nav className="bg-white border-gray-200 dark:bg-gray-800 px-4 py-2.5 lg:px-6">
           <div className="mx-auto flex max-w-screen-xl flex-wrap items-center justify-between">
             <a href="#" className="flex items-center">
-              <span className="dark:text-white self-center whitespace-nowrap text-xl font-semibold">
+              <span className="dark:text-white self-center whitespace-nowrap text-xl font-semibold font-d-heavy">
                 Project Kardeshev.
               </span>
             </a>
             <div className="flex items-center lg:order-2">
               <a
                 href="#"
-                className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 mr-2 rounded-lg px-4 py-2 text-sm font-medium focus:outline-none focus:ring-4 lg:px-5 lg:py-2.5"
+                className="text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 mr-2 rounded-lg px-4 py-2 text-sm font-medium focus:outline-none focus:ring-4 lg:px-5 lg:py-2.5"
               >
                 Get started
               </a>
@@ -62,7 +62,7 @@ function App() {
                 <li>
                   <a
                     href="#"
-                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-blue-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
+                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-green-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
                   >
                     Paper
                   </a>
@@ -70,7 +70,7 @@ function App() {
                 <li>
                   <a
                     href="#team"
-                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-blue-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
+                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-green-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
                   >
                     Team
                   </a>
@@ -78,7 +78,7 @@ function App() {
                 <li>
                   <a
                     href="#roadmap"
-                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-blue-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
+                    className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-green-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
                   >
                     Roadmap
                   </a>
@@ -96,7 +96,7 @@ function App() {
             className="text-gray-700 bg-gray-100 dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700 mb-7 inline-flex items-center justify-between rounded-full px-1 py-1 pr-4 text-sm"
             role="alert"
           >
-            <span className="bg-blue-600 text-white mr-3 rounded-full px-4 py-1.5 text-xs">
+            <span className="bg-green-600 text-white mr-3 rounded-full px-4 py-1.5 text-xs">
               New
             </span>{' '}
             <span className="text-sm font-medium">
@@ -128,7 +128,7 @@ function App() {
           <div className="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16">
             <a
               href="#"
-              className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-blue-300 dark:focus:ring-blue-900 inline-flex items-center justify-center rounded-lg px-5 py-3 text-center text-base font-medium focus:ring-4"
+              className="text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 dark:focus:ring-green-900 inline-flex items-center justify-center rounded-lg px-5 py-3 text-center text-base font-medium focus:ring-4"
             >
               Start now
               <svg
@@ -294,7 +294,7 @@ function App() {
             </p>
             <a
               href="#"
-              className="text-gray-900 bg-white border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:ring-gray-100 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700 inline-flex items-center rounded-lg border px-4 py-2 text-sm font-medium focus:z-10 focus:outline-none focus:ring-4"
+              className="text-gray-900 bg-white border-gray-200 hover:bg-gray-100 hover:text-green-700 focus:ring-gray-100 focus:text-green-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700 inline-flex items-center rounded-lg border px-4 py-2 text-sm font-medium focus:z-10 focus:outline-none focus:ring-4"
             >
               Check current status{' '}
               <svg
@@ -434,25 +434,6 @@ function App() {
                         viewBox="0 0 24 24"
                         aria-hidden="true"
                       >
-                        <path
-                          fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd"
-                        />
-                      </svg>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
-                    >
-                      <svg
-                        className="h-5 w-5"
-                        fill="currentColor"
-                        viewBox="0 0 24 24"
-                        aria-hidden="true"
-                      >
                         <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
                       </svg>
                     </a>
@@ -516,25 +497,6 @@ function App() {
                   expertise.
                 </p>
                 <ul className="flex space-x-4 sm:mt-0">
-                  <li>
-                    <a
-                      href="#"
-                      className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
-                    >
-                      <svg
-                        className="h-5 w-5"
-                        fill="currentColor"
-                        viewBox="0 0 24 24"
-                        aria-hidden="true"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd"
-                        />
-                      </svg>
-                    </a>
-                  </li>
                   <li>
                     <a
                       href="#"
@@ -622,25 +584,6 @@ function App() {
                         viewBox="0 0 24 24"
                         aria-hidden="true"
                       >
-                        <path
-                          fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd"
-                        />
-                      </svg>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
-                    >
-                      <svg
-                        className="h-5 w-5"
-                        fill="currentColor"
-                        viewBox="0 0 24 24"
-                        aria-hidden="true"
-                      >
                         <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
                       </svg>
                     </a>
@@ -716,25 +659,6 @@ function App() {
                         viewBox="0 0 24 24"
                         aria-hidden="true"
                       >
-                        <path
-                          fill-rule="evenodd"
-                          d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
-                          clip-rule="evenodd"
-                        />
-                      </svg>
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
-                    >
-                      <svg
-                        className="h-5 w-5"
-                        fill="currentColor"
-                        viewBox="0 0 24 24"
-                        aria-hidden="true"
-                      >
                         <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
                       </svg>
                     </a>
@@ -789,7 +713,7 @@ function App() {
           <div className="md:flex md:justify-between">
             <div className="mb-6 md:mb-0">
               <a href="#" className="flex items-center">
-                <span className="dark:text-white self-center whitespace-nowrap text-2xl font-semibold">
+                <span className="dark:text-white self-center whitespace-nowrap text-2xl font-semibold font-d-heavy">
                   Kardeshev
                 </span>
               </a>
