@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0 2rem;
   text-align: center;
 }
 
@@ -39,4 +39,30 @@
 
 .read-the-docs {
   color: #888;
+}
+
+@font-face{
+  font-family: "Diablo Heavy";
+  src: url("assets/font/fa37a42f80849bd2121662ef110ef0bb.eot");
+  src: url("assets/font/fa37a42f80849bd2121662ef110ef0bb.eot?#iefix")format("embedded-opentype"),
+  url("assets/font/fa37a42f80849bd2121662ef110ef0bb.woff")format("woff"),
+  url("assets/font/fa37a42f80849bd2121662ef110ef0bb.woff2")format("woff2"),
+  url("assets/font/fa37a42f80849bd2121662ef110ef0bb.ttf")format("truetype");
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap;
+}
+
+iframe {
+  height: 80px;
+  top: 0;
+  position: relative;
+  margin-top: 0;
+  padding-top: 0
+}
+
+@media only screen and (max-width: 768px) {
+  iframe {
+    height: 180px;
+  }
 }
