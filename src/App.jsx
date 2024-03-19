@@ -228,7 +228,7 @@ function App() {
                 <img
                   className="opacity-30"
                   width="161px"
-                  src="assets/weavers.webp"
+                  src="src/assets/weavers.webp"
                 />
               </a>
             </div>
