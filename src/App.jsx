@@ -15,10 +15,10 @@ function App() {
             </a>
             <div className="flex items-center lg:order-2">
               <a
-                href="#"
+                href="https://github.com/project-kardeshev/"
                 className="text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 mr-2 rounded-lg px-4 py-2 text-sm font-medium focus:outline-none focus:ring-4 lg:px-5 lg:py-2.5"
               >
-                Get started
+                Github
               </a>
               <button
                 data-collapse-toggle="mobile-menu-2"
@@ -106,18 +106,6 @@ function App() {
             <span className="text-sm font-medium">
               Kardeshev is at Hack the Weave!
             </span>
-            <svg
-              className="ml-2 h-5 w-5"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                fill-rule="evenodd"
-                d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                clipRule="evenodd"
-              ></path>
-            </svg>
           </a>
           <h1 className="text-gray-900 dark:text-white mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl">
             Knowledge Gamification.
@@ -129,7 +117,7 @@ function App() {
             tooling used to create solutions, by way of engineering and other
             disciplines.
           </p>
-          <div className="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16">
+          {/*<div className="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0 lg:mb-16">
             <a
               href="#"
               className="text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 dark:focus:ring-green-900 inline-flex items-center justify-center rounded-lg px-5 py-3 text-center text-base font-medium focus:ring-4"
@@ -148,92 +136,8 @@ function App() {
                 ></path>
               </svg>
             </a>
-          </div>
-          <div className="mx-auto px-4 text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
-            <span className="text-gray-400 font-semibold uppercase">
-              IN COLLABORATION WITH
-            </span>
-            <div className="text-gray-500 mt-8 flex flex-wrap items-center justify-center sm:justify-between">
-              <a
-                href="#"
-                className="hover:text-gray-800 dark:hover:text-gray-400 mb-5 mr-5 lg:mb-0"
-              >
-                <svg
-                  fill="#6b7280"
-                  id="Layer_2"
-                  data-name="Layer 2"
-                  className="h-8"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 1311.58 240.92"
-                >
-                  <g id="Layer_1-2" data-name="Layer 1">
-                    <g>
-                      <polygon
-                        className="cls-1"
-                        points="0 240.45 80.2 240.45 96.57 196.19 59.74 120.79 0 240.45"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="123.57 1.12 96.57 62.6 180.86 240.45 241.58 240.45 212.77 180.62 123.57 1.12"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="785.01 46.85 821.84 122.26 881.58 2.59 801.38 2.59 785.01 46.85"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="472 1.12 500.8 60.96 590 240.45 617.01 178.98 532.72 1.12 472 1.12"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="713.34 1.59 713.58 1.12 633.38 1.12 617.01 45.38 653.84 120.79 682.64 63.1 771 240.92 798.01 179.45 713.72 1.59 713.34 1.59"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="1231.38 2.59 1215.01 46.85 1251.84 122.26 1311.58 2.59 1231.38 2.59"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="902 1.12 930.8 60.96 1020 240.45 1047.01 178.98 962.72 1.12 902 1.12"
-                      />
-                      <polygon
-                        className="cls-1"
-                        points="1143.34 1.59 1143.58 1.12 1063.38 1.12 1047.01 45.38 1083.84 120.79 1112.64 63.1 1201 240.92 1228.01 179.45 1143.72 1.59 1143.34 1.59"
-                      />
-                      <path
-                        className="cls-1"
-                        d="m361.8,0c-66.4,0-120.23,53.83-120.23,120.23s53.83,120.23,120.23,120.23,120.23-53.83,120.23-120.23S428.2,0,361.8,0Zm0,193.26c-40.34,0-73.03-32.7-73.03-73.03s32.7-73.03,73.03-73.03,73.03,32.7,73.03,73.03-32.7,73.03-73.03,73.03Z"
-                      />
-                    </g>
-                  </g>
-                </svg>
-              </a>
-              <a
-                href="#"
-                className="hover:text-gray-800 dark:hover:text-gray-400 mb-5 mr-1 lg:mb-0"
-              >
-                <svg
-                  fill="#6b7280"
-                  className="mb-2 h-12"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="-59.625 -12.15 516.75 72.9"
-                >
-                  <path d="M36 29.8H9.4v-6.6h34.3c-.9-2.8-3.8-5.4-8.9-5.4H9.9c-5.7 0-9 2.1-9 6.7v4.9c0 4 3.4 6.3 8.4 6.3h26.9v7H0c.9 3.8 3.8 5.8 9 5.8h27.1c5.7 0 8.5-2.2 8.5-6.9v-4.9c0-4.3-3.3-6.6-8.6-6.9zm54.3-11.9H57.5v30.7h9.3V36.8H91c6.7 0 10.4-2.3 10.4-7.7v-3.4c-.1-5-4.3-7.8-11.1-7.8zm3 9.8c0 2.2-.4 3.4-4 3.4H66.8l.1-8h22c4 0 4.5 1.2 4.5 3.3v1.3zm39 8.9h-19.8l-4.9 5.2h28.6l4.9 6.8h11l-23.7-32-5.6 6.9zm37.6-13.4h34.8c-.9-3.6-4.4-5.4-9.4-5.4h-26c-4.5 0-8.8 1.8-8.8 6.7v17.2c0 4.9 4.3 6.7 8.8 6.7h26.3c6 0 8.1-1.7 9.1-5.8h-34.8zm75.6 10.2v-5.2h-28.1v20.4h41.5v-5.8h-32.1v-9.4zm-27.1-15.5h41.9v5.4h-41.9zm67.7 0h-14.6l17.2 12.6c2.5-1.7 5.4-3.5 8-5zm21.2 15.7c-2.5 1.7-5 3.6-7.4 5.4l13 9.5h14.7z" />
-                  <path d="M397.5 0c-80 4.6-117 38.8-125.3 46.9l-1.7 1.6h14.8C325.3 8.4 382.8 1.3 397.5 0z" />
-                </svg>
-              </a>
-              <a
-                href="#"
-                className="hover:text-gray-800 dark:hover:text-gray-400 mb-5 mr-3 lg:mb-0"
-              >
-                <img
-                  className="opacity-30"
-                  width="161px"
-                  src="src/assets/weavers.webp"
-                />
-              </a>
-            </div>
-          </div>
+          </div>*/}
+
         </div>
       </section>
 
@@ -689,7 +593,7 @@ function App() {
                   />
                 </svg>
               </a>
-              
+
             </div>
           </div>
         </div>
