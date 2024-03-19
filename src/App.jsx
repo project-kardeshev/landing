@@ -243,13 +243,11 @@ function App() {
               Open World Quests: <br /> Innovative Solutions Deployed
             </h2>
             <p className="mb-4">
-              Players will be able to work on their quests in an open world
-              format similar to GTA or minecraft.
+              Players will be able to work on their quests in an open world format.
+
             </p>
             <p>
-              Each quest will require the player to research the issue and
-              develop novel solutions to it. Once they have one, the product is
-              licensed and deployed to arweave.
+              Each quest will require the player to research the issue and develop novel solutions to it. Once they have one, the product is licensed and deployed to Arweave with a UDL license.
             </p>
           </div>
           <div className="mt-8 grid grid-cols-2 gap-4">
@@ -489,23 +487,22 @@ function App() {
               <a href="#">
                 <img
                   className="w-80 rounded-lg sm:rounded-none sm:rounded-l-lg"
-                  src="https://ca.slack-edge.com/T06P2QET10V-U06NZF1KKK8-8b955705f4f5-512"
+                  src="src/assets/louis.png"
                   alt="LF"
                 />
               </a>
               <div className="p-5">
                 <h3 className="text-gray-900 dark:text-white text-xl font-bold tracking-tight font-d-heavy ">
-                  <a href="#">Louis-Philippe Bellier</a>
+                  <a href="#">Louis Bellier</a>
                 </h3>
-                <span className="text-gray-500 dark:text-gray-400">CIX</span>
+                <span className="text-gray-500 dark:text-gray-400">Growth hacker</span>
                 <p className="text-gray-500 dark:text-gray-400 mb-4 mt-3 font-light">
-                  Mr. Bellier drives the investors relations with finesse and
-                  expertise.
+                  Senior Marketer & Growth at Project Kardeshev. Blockchain Utility Fan & AI Open data activist.
                 </p>
                 <ul className="flex space-x-4 sm:mt-0">
                   <li>
                     <a
-                      href="#"
+                      href="https://twitter.com/growthlouis"
                       className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
                       target="_blank"
                     >
@@ -578,8 +575,7 @@ function App() {
                   Founder
                 </span>
                 <p className="text-gray-500 dark:text-gray-400 mb-4 mt-3 font-light">
-                  Hola! The founder is the glue. Doing other important stuff as
-                  well.
+                  Full stack everythinger expanding the frontier of decentralization.
                 </p>
                 <ul className="flex space-x-4 sm:mt-0">
                   <li>
