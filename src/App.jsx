@@ -15,7 +15,7 @@ function App() {
             </a>
             <div className="flex items-center lg:order-2">
               <a
-                href="https://app_project-kardeshev.arweave.dev/#/"
+                href="https://app_project-kardeshev.arweave.dev/"
                 className="text-white bg-green-700 hover:bg-green-800 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 mr-2 rounded-lg px-4 py-2 text-sm font-medium focus:outline-none focus:ring-4 lg:px-5 lg:py-2.5"
               >
                 Launch
@@ -61,7 +61,7 @@ function App() {
               <ul className="mt-4 flex flex-col font-medium lg:mt-0 lg:flex-row lg:space-x-8">
                 <li>
                   <a
-                    href="https://app_project-kardeshev.arweave.dev/#/about"
+                    href="https://app_project-kardeshev.arweave.dev/about"
                     className="text-gray-700 border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:hover:text-green-700 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700 block border-b py-2 pl-3 pr-4 lg:border-0 lg:p-0"
                   >
                     About
@@ -89,7 +89,7 @@ function App() {
         </nav>
 
         <iframe src="https://audio-renderer_project-kardeshev.ar-io.dev/?tx=V4to3I1JqXHNR9_dGjRsJPPPexG1OdRXthHQ7QGl3L4"
-                width="100%" height="100%">
+          width="100%" height="100%">
         </iframe>
 
       </header>
@@ -195,7 +195,7 @@ function App() {
               collaboration
             </p>
             <a
-              href="https://app_project-kardeshev.arweave.dev/#/about"
+              href="https://app_project-kardeshev.arweave.dev/about"
               className="text-gray-900 bg-white border-gray-200 hover:bg-gray-100 hover:text-green-700 focus:ring-gray-100 focus:text-green-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700 inline-flex items-center rounded-lg border px-4 py-2 text-sm font-medium focus:z-10 focus:outline-none focus:ring-4"
             >
               Check current status{' '}
