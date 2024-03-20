@@ -87,13 +87,9 @@ function App() {
             </div>
           </div>
         </nav>
-<<<<<<< Updated upstream
-        <iframe src="https://audio-renderer_project-kardeshev.arweave.dev/?tx=ichh54jepRRGgLOB0NR-CpE5-ey35BHLE2B69Lk4cUc"
-          width="100%" height="100%">
-=======
+
         <iframe src="https://audio-renderer_project-kardeshev.ar-io.dev/?tx=V4to3I1JqXHNR9_dGjRsJPPPexG1OdRXthHQ7QGl3L4"
                 width="100%" height="100%">
->>>>>>> Stashed changes
         </iframe>
 
       </header>
